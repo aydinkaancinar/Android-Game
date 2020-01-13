@@ -7,4 +7,6 @@
 * Jaipratap Singh Grewal
 * Dominic Casillano
 ## screenshots
-![alt text]()
+![alt text](https://github.com/aydinkaancinar/Android-Game/blob/master/Screenshots/Screen%20Shot%202020-01-13%20at%2016.49.54.png)
+![alt text](https://github.com/aydinkaancinar/Android-Game/blob/master/Screenshots/Screen%20Shot%202020-01-13%20at%2016.50.14.png)
+![alt text](https://github.com/aydinkaancinar/Android-Game/blob/master/Screenshots/Screen%20Shot%202020-01-13%20at%2016.50.27.png)
